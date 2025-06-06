@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.exe
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\refint\GerenciamentoFuncionarios.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciamentoFuncionarios\obj\Debug\net9.0\ref\GerenciamentoFuncionarios.dll

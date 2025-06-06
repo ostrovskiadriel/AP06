@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\bin\Debug\net9.0\CatalogoDeFilmes.exe
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\bin\Debug\net9.0\CatalogoDeFilmes.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\bin\Debug\net9.0\CatalogoDeFilmes.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\bin\Debug\net9.0\CatalogoDeFilmes.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\bin\Debug\net9.0\CatalogoDeFilmes.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\refint\CatalogoDeFilmes.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\CatalogoDeFilmes.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\CatalogoDeFilmes\obj\Debug\net9.0\ref\CatalogoDeFilmes.dll

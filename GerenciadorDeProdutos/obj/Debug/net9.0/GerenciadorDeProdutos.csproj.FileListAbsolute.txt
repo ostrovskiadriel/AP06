@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\bin\Debug\net9.0\GerenciadorDeProdutos.exe
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\bin\Debug\net9.0\GerenciadorDeProdutos.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\bin\Debug\net9.0\GerenciadorDeProdutos.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\bin\Debug\net9.0\GerenciadorDeProdutos.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\bin\Debug\net9.0\GerenciadorDeProdutos.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\refint\GerenciadorDeProdutos.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\GerenciadorDeProdutos.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\GerenciadorDeProdutos\obj\Debug\net9.0\ref\GerenciadorDeProdutos.dll

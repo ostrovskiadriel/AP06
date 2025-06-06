@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\bin\Debug\net9.0\BibliotecaDeMusicas.exe
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\bin\Debug\net9.0\BibliotecaDeMusicas.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\bin\Debug\net9.0\BibliotecaDeMusicas.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\bin\Debug\net9.0\BibliotecaDeMusicas.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\bin\Debug\net9.0\BibliotecaDeMusicas.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\refint\BibliotecaDeMusicas.dll
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.pdb
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\BibliotecaDeMusicas.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\AP-6\BibliotecaDeMusicas\obj\Debug\net9.0\ref\BibliotecaDeMusicas.dll
