@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "a850031c-3fe5-4c0d-8d7f-05a72bff375a",
+    "NomeCompleto": "Alice",
+    "DataNascimento": "1990-05-01T00:00:00",
+    "ContatoEmergencia": "123456"
+  },
+  {
+    "Id": "7dc2b692-0004-4cc2-920e-1466f8b9a5df",
+    "NomeCompleto": "Bruno",
+    "DataNascimento": "2005-08-15T00:00:00",
+    "ContatoEmergencia": "987654"
+  }
+]
