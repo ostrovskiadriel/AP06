@@ -1,0 +1,18 @@
+[
+  {
+    "$type": "prato",
+    "descricaoDetalhada": "Risoto cremoso com shitake, shimeji e parmes\u00E3o",
+    "vegetariano": true,
+    "id": "8cc2cf47-9e74-4d07-879c-2f6cc64b105b",
+    "nomeItem": "Risoto de Cogumelos",
+    "preco": 32.90
+  },
+  {
+    "$type": "bebida",
+    "volumeMl": 500,
+    "alcoolica": false,
+    "id": "ced0b89f-7021-4bb8-b169-9c2dbf2204a1",
+    "nomeItem": "\u00C1gua com G\u00E1s",
+    "preco": 5.00
+  }
+]

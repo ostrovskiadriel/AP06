@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\bin\Debug\net9.0\SistemaDePedidosDeRestaurante.exe
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\bin\Debug\net9.0\SistemaDePedidosDeRestaurante.deps.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\bin\Debug\net9.0\SistemaDePedidosDeRestaurante.runtimeconfig.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\bin\Debug\net9.0\SistemaDePedidosDeRestaurante.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\bin\Debug\net9.0\SistemaDePedidosDeRestaurante.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.AssemblyInfo.cs
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\refint\SistemaDePedidosDeRestaurante.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\SistemaDePedidosDeRestaurante.genruntimeconfig.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemaDePedidosDeRestaurante\SistemaDePedidosDeRestaurante\obj\Debug\net9.0\ref\SistemaDePedidosDeRestaurante.dll

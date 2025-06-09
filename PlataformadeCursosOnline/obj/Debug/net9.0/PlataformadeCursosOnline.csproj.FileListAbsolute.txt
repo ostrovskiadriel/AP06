@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\bin\Debug\net9.0\PlataformadeCursosOnline.exe
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\bin\Debug\net9.0\PlataformadeCursosOnline.deps.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\bin\Debug\net9.0\PlataformadeCursosOnline.runtimeconfig.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\bin\Debug\net9.0\PlataformadeCursosOnline.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\bin\Debug\net9.0\PlataformadeCursosOnline.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.AssemblyInfo.cs
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\refint\PlataformadeCursosOnline.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\PlataformadeCursosOnline.genruntimeconfig.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\PlataformadeCursosOnline\obj\Debug\net9.0\ref\PlataformadeCursosOnline.dll

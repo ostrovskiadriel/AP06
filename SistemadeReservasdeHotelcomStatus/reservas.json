@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "66c9318d-e843-4bb1-b792-831b796461d7",
+    "NomeHospede": "Jo\u00E3o da Silva",
+    "DataCheckIn": "2025-06-09T00:00:00-03:00",
+    "DataCheckOut": "2025-06-12T00:00:00-03:00",
+    "Status": 1
+  },
+  {
+    "Id": "713168a8-fbcd-46dc-9095-6a8f90d80561",
+    "NomeHospede": "Maria Oliveira",
+    "DataCheckIn": "2025-06-14T00:00:00-03:00",
+    "DataCheckOut": "2025-06-16T00:00:00-03:00",
+    "Status": 0
+  }
+]

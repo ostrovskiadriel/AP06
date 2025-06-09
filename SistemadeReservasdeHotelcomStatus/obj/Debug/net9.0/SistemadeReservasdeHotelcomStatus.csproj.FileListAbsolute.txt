@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.AssemblyInfo.cs
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\bin\Debug\net9.0\SistemadeReservasdeHotelcomStatus.exe
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\bin\Debug\net9.0\SistemadeReservasdeHotelcomStatus.deps.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\bin\Debug\net9.0\SistemadeReservasdeHotelcomStatus.runtimeconfig.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\bin\Debug\net9.0\SistemadeReservasdeHotelcomStatus.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\bin\Debug\net9.0\SistemadeReservasdeHotelcomStatus.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\refint\SistemadeReservasdeHotelcomStatus.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\SistemadeReservasdeHotelcomStatus.genruntimeconfig.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\SistemadeReservasdeHotelcomStatus\obj\Debug\net9.0\ref\SistemadeReservasdeHotelcomStatus.dll

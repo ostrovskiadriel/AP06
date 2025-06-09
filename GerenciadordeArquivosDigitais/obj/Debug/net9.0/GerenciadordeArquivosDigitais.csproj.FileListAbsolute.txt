@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\bin\Debug\net9.0\GerenciadordeArquivosDigitais.exe
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\bin\Debug\net9.0\GerenciadordeArquivosDigitais.deps.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\bin\Debug\net9.0\GerenciadordeArquivosDigitais.runtimeconfig.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\bin\Debug\net9.0\GerenciadordeArquivosDigitais.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\bin\Debug\net9.0\GerenciadordeArquivosDigitais.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.AssemblyInfo.cs
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\refint\GerenciadordeArquivosDigitais.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\GerenciadordeArquivosDigitais.genruntimeconfig.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\AP-6\GerenciadordeArquivosDigitais\obj\Debug\net9.0\ref\GerenciadordeArquivosDigitais.dll
